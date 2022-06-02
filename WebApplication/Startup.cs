@@ -15,6 +15,7 @@ namespace WebApplication
     {
         public Startup(IConfiguration configuration)
         {
+            // Adding comment to test CI Pipeline
             Configuration = configuration;
         }
 
